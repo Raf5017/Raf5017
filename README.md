@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Raf5017
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning analytics using python
-- 💞️ I’m looking to collaborate on projects involving cricket analytics or biostatistics
+
 - 📫 How to reach me ...
 
 <!---
